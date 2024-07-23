@@ -1,0 +1,8 @@
+{
+    "configurations":[{
+        "name" : "leeOpenCV",
+        "includePath": [
+            "/usr/include/**"
+        ]    
+    }]
+}
