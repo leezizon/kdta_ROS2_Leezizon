@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-std::string folder = "/home/leejieun/kdta_ROS2_Leezizon/opencv/first/";
+std::string folder = "/home/leejieun/kdta_ROS2_Leezizon/opencv/dataFolder/";
 
 int main(){
     std::cout <<"hello, world"<<std::endl;
